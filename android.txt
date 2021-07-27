@@ -1,0 +1,3 @@
+title = <GALAXY>
+author = <KRISHNA>
+orientation = <landscape>
